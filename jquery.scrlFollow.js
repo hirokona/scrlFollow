@@ -46,7 +46,6 @@
 			});
 		});
 
-		// method chain用に要素を返す
 		return this;
 	};
 
