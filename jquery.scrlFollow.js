@@ -6,7 +6,7 @@
  */
 
 ;(function($) {
-	//test test test
+	//newBranch test test test
 	$.fn.scrlFollow = function(options){
 		var elements = this;
 		elements.each(function(){
